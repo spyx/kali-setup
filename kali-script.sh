@@ -89,5 +89,11 @@ then
     # wes-ng
     git clone https://github.com/bitsadmin/wesng.git
     pip install mechanicalsoup
+    # install droppescan ( require ouo from windows exploit suggester)
+    pip install droopescan
+    # install Drupalgeddon2
+    git clone https://github.com/dreadlocked/Drupalgeddon2.git
+    gem install nokogiri
+    
 
 fi
