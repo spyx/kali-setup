@@ -47,7 +47,13 @@ sudo apt install gdb
 wget -q -O- https://github.com/hugsy/gef/raw/master/scripts/gef.sh | sh
 ## install pip3
 echo "Installing pip3"
-sudo apt install python3-pip 
+sudo apt install python3-pip
+## install odat - Oracle Database Attacking Tool
+echo "Installing odat"
+sudo apt install odat 
+## install fcrackzip
+sudo apt install fcrackzip
+
 
 
 ## Installing application for github / non apt repos....
