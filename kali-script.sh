@@ -53,6 +53,8 @@ echo "Installing odat"
 sudo apt install odat 
 ## install fcrackzip
 sudo apt install fcrackzip
+## install strongswan
+sudo apt install strongswan libstrongswan-standard-plugins libstrongswan-extra-plugins
 
 
 
