@@ -55,6 +55,8 @@ sudo apt install odat
 sudo apt install fcrackzip
 ## install strongswan
 sudo apt install strongswan libstrongswan-standard-plugins libstrongswan-extra-plugins
+## install libguestfs-tools for reading vhd
+sudo apt-get install libguestfs-tools
 
 
 
